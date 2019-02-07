@@ -2,7 +2,7 @@ Shared Shopping List Server
 ==========
 
 This project is the server side for the Shared Shopping List app I'm developing.
-It's base on Node.js and GraphQL, using graphql-yoga.
+It's based on Node.js and GraphQL, using graphql-yoga.
 
 ## Instalation
 
